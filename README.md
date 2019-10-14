@@ -1,6 +1,6 @@
 # plugin1
 
-plugin1
+小米推送的flutter插件
 
 ## Getting Started
 
