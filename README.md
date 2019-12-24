@@ -1,6 +1,6 @@
-# plugin1
+# flutter_android_IOS
 
-小米推送的flutter插件
+Flutter与Android、IOS通信的例子，想通过这个demo来学习flutter与原生的通信，以及kotlin、swift
 
 ## Getting Started
 
